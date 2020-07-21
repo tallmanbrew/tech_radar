@@ -1,2 +1,15 @@
 name,ring,quadrant,isNew,description
-Rancher,Assess,Platform,FALSE,"Kubernetes Orchestration"
+Rancher,Assess,Platform,FALSE,"Kubernetes Orchestration - https://www.rancher.com"
+Pivotal PKS / VMware Tanzu,Assess,Platforms,TRUE,"Pivotal PKS -> VMware Tanzu : https://tanzu.vmware.com/"
+PowerShell,Adopt,Tools,TRUE,Microsoft PowerShell : For Windows and Linux
+Kubernetes,Trial,Platforms,TRUE,"Containers get a manager, which runs in a container. Inception."
+Scripted Server Builds,Adopt,Techniques,TRUE
+ArgoCD,Assess,Platforms,TRUE
+FluxCD,Assess,Platforms,TRUE
+Ansible,Assess,Tools,TRUE,"System management and deployment for Linux, but can be used for Windows."
+F5 BigIP Controller for K8S,Assess,Tools,TRUE
+MetalLB,Assess,Tools,TRUE,https://metallb.universe.tf/
+DevOps,Adopt,Techniques,TRUE,We can do it!
+GitHub Enterprise,Hold,Platforms,TRUE,https://github.beckshybrids.com
+GitHub,Trial,Platforms,TRUE
+GitHub Actions,Trial,Tools,TRUE
