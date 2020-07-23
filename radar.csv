@@ -1,6 +1,6 @@
-"name","ring","quadrant","isNew","description"
-Rancher,Adopt,Platform,FALSE,"Kubernetes Orchestration - https://www.rancher.com"
-Pivotal PKS / VMware Tanzu,Hold,Platforms,TRUE,"Pivotal PKS -> VMware Tanzu : https://tanzu.vmware.com/"
+"name","ring","quadrant","isNew","description","url"
+Rancher,Adopt,Platform,FALSE,"Kubernetes Orchestration,https://www.rancher.com"
+Pivotal PKS / VMware Tanzu,Hold,Platforms,TRUE,"Pivotal PKS -> VMware Tanzu",https://tanzu.vmware.com/
 PowerShell,Adopt,Tools,TRUE,Microsoft PowerShell : For Windows and Linux
 Kubernetes,Trial,Platforms,TRUE,"Containers get a manager, which runs in a container. Inception."
 Scripted Server Builds,Adopt,Techniques,TRUE,
@@ -8,18 +8,18 @@ ArgoCD,Assess,Platforms,TRUE,
 FluxCD,Assess,Platforms,TRUE,
 Ansible,Assess,Tools,TRUE,"System management and deployment for Linux, but can be used for Windows."
 F5 BigIP Controller for K8S,Assess,Tools,TRUE,
-MetalLB,Assess,Tools,TRUE,https://metallb.universe.tf/
+MetalLB,Assess,Tools,TRUE,,https://metallb.universe.tf/
 DevOps,Adopt,Techniques,TRUE,We can do it!
-GitHub Enterprise,Hold,Platforms,TRUE,https://github.beckshybrids.com
+GitHub Enterprise,Hold,Platforms,TRUE,,https://github.beckshybrids.com
 GitHub,Trial,Platforms,TRUE,
 GitHub Actions,Trial,Tools,TRUE,
-GitOps Engine (Flux/Argo),Assess,Platforms,TRUE,https://github.com/argoproj/gitops-engine
-Vault By HashiCorp,Assess,Tools,TRUE,https://www.vaultproject.io/
-cri-o,Assess,Tools,TRUE,"Lightweight Container Runtime for Kubernetes" https://cri-o.io/
-Sonobuoy,Assess,Tools,TRUE,"Diagnostic tool to understand the state of kubernetes clusters" https://sonobuoy.io/
-Velero,Assess,Tools,TRUE,"Tools to backup and restore Kubernetes cluster resources" https://velero.io/docs/v1.4/
-Octant,Assess,Tools,TRUE,"Web based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters" https://octant.dev/docs/master/
-Lens,Assess,Tools,TRUE,"Kubernetes Lens, IDE for kubernetes mangagement" https://k8slens.dev/
-Thanos,Assess,Tools,TRUE,"HA Metric system with unlimited storage" https://github.com/thanos-io/thanos
-Terraform,Assess,Tools,TRUE,"Infrastructure as Code CLI" https://www.terraform.io/
-werf,Assess,Tools,TRUE,"Open Source CLI tool written in Go, designed to simplify and speed up the delivery of applications" https://github.com/werf/werf
+GitOps Engine (Flux/Argo),Assess,Platforms,TRUE,,https://github.com/argoproj/gitops-engine
+Vault By HashiCorp,Assess,Tools,TRUE,Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API.,https://www.vaultproject.io/
+cri-o,Assess,Tools,TRUE,"Lightweight Container Runtime for Kubernetes",https://cri-o.io/
+Sonobuoy,Assess,Tools,TRUE,"Diagnostic tool to understand the state of kubernetes clusters",https://sonobuoy.io/
+Velero,Assess,Tools,TRUE,"Tools to backup and restore Kubernetes cluster resources",https://velero.io/docs/v1.4/
+Octant,Assess,Tools,TRUE,"Web based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters",https://octant.dev/docs/master/
+Lens,Assess,Tools,TRUE,"Kubernetes Lens, IDE for kubernetes mangagement",https://k8slens.dev/
+Thanos,Assess,Tools,TRUE,"HA Metric system with unlimited storage",https://github.com/thanos-io/thanos
+Terraform,Assess,Tools,TRUE,"Infrastructure as Code CLI",https://www.terraform.io/
+werf,Assess,Tools,TRUE,"Open Source CLI tool written in Go, designed to simplify and speed up the delivery of applications",https://github.com/werf/werf
