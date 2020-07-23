@@ -1,5 +1,5 @@
 "name","ring","quadrant","isNew","description","url"
-Rancher,Adopt,Platform,FALSE,"Kubernetes Orchestration,https://www.rancher.com"
+Rancher,Adopt,Platform,FALSE,"Kubernetes Orchestration",https://www.rancher.com
 Pivotal PKS / VMware Tanzu,Hold,Platforms,TRUE,"Pivotal PKS -> VMware Tanzu",https://tanzu.vmware.com/
 PowerShell,Adopt,Tools,TRUE,Microsoft PowerShell : For Windows and Linux
 Kubernetes,Trial,Platforms,TRUE,"Containers get a manager, which runs in a container. Inception."
