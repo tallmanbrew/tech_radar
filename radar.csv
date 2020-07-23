@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,description
+"name","ring","quadrant","isNew","description"
 Rancher,Assess,Platform,FALSE,"Kubernetes Orchestration - https://www.rancher.com"
 Pivotal PKS / VMware Tanzu,Assess,Platforms,TRUE,"Pivotal PKS -> VMware Tanzu : https://tanzu.vmware.com/"
 PowerShell,Adopt,Tools,TRUE,Microsoft PowerShell : For Windows and Linux
